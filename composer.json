@@ -1,0 +1,10 @@
+{
+    "name": "linhtv/php-mvc-core",
+    "authors": [
+        {
+            "name": "Linh Tv",
+            "email": "linhtvph18589@fpt.edu.vn"
+        }
+    ],
+    "require": {}
+}
