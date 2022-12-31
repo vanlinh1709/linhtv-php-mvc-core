@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core;
+namespace linhtv\phpmvc;
 
 abstract class DbModel extends Model
 {

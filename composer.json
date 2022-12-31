@@ -6,5 +6,10 @@
             "email": "linhtvph18589@fpt.edu.vn"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "linhtv\\phpmvc\\": "."
+        }
+    }
 }

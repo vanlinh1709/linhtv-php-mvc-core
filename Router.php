@@ -1,8 +1,8 @@
 <?php
-namespace app\core;
+namespace linhtv\phpmvc;
 
-use app\core\exception\ForbiddenException;
-use app\core\exception\NotFoundException;
+use linhtv\phpmvc\exception\ForbiddenException;
+use linhtv\phpmvc\exception\NotFoundException;
 
 class Router
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core\form;
+namespace linhtv\phpmvc\form;
 
 use Couchbase\BooleanSearchQuery;
 

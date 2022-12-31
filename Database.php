@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace linhtv\phpmvc;
 
-use app\core\Application;
+use linhtv\phpmvc\Application;
 
 class Database
 {

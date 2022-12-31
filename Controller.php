@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace linhtv\phpmvc;
 
-use app\core\middlewares\BaseMiddleware;
+use linhtv\phpmvc\middlewares\BaseMiddleware;
 
 class Controller
 {

@@ -1,5 +1,5 @@
 <?php
-namespace app\core;
+namespace linhtv\phpmvc;
 class Application
 {
     public string $layout = 'main';
